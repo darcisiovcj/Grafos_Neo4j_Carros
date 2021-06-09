@@ -1,0 +1,106 @@
+[
+    {
+      "n": {
+  "identity": 0,
+  "labels": [
+          "Carros"
+        ],
+  "properties": {
+  "classe": "Sedan",
+  "caracteristica": "Carroceria"
+        }
+      }
+    },
+    {
+      "n": {
+  "identity": 1,
+  "labels": [
+          "Chevrolet"
+        ],
+  "properties": {
+  "classe": "Sedan",
+  "caracteristica": "Vermelho"
+        }
+      }
+    },
+    {
+      "n": {
+  "identity": 2,
+  "labels": [
+          "Ford"
+        ],
+  "properties": {
+  "classe": "Sedan",
+  "caracteristica": "Preto"
+        }
+      }
+    },
+    {
+      "n": {
+  "identity": 3,
+  "labels": [
+          "Ferrari"
+        ],
+  "properties": {
+  "classe": "Sedan",
+  "caracteristica": "Branca"
+        }
+      }
+    },
+    {
+      "n": {
+  "identity": 4,
+  "labels": [
+          "Mercedes"
+        ],
+  "properties": {
+  "classe": "Sedan",
+  "caracteristica": "Azul"
+        }
+      }
+    },
+    {
+      "n": {
+  "identity": 5,
+  "labels": [
+          "Modelo"
+        ],
+  "properties": {
+  "modelo": "celta"
+        }
+      }
+    },
+    {
+      "n": {
+  "identity": 6,
+  "labels": [
+          "modelo"
+        ],
+  "properties": {
+  "modelo": "Fiesta"
+        }
+      }
+    },
+    {
+      "n": {
+  "identity": 7,
+  "labels": [
+          "modelo"
+        ],
+  "properties": {
+  "modelo": "Italia"
+        }
+      }
+    },
+    {
+      "n": {
+  "identity": 8,
+  "labels": [
+          "modelo"
+        ],
+  "properties": {
+  "modelo": "C250"
+        }
+      }
+    }
+  ]
